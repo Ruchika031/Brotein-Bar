@@ -47,7 +47,7 @@ Do not commit `.env` files or API keys.
 - Promo video: `media/brotein-bar-promo.mp4` (AI-generated visuals; illustrative, not a screen recording).
 
 ## Documentation
-Product overview and user stories: `docs/PRODUCT_OVERVIEW.md`. Setup notes: `docs/SETUP.md`.
+Product overview and user stories: [PRODUCT_OVERVIEW.md](PRODUCT_OVERVIEW.md). Setup notes: [SETUP.md](SETUP.md).
 
 ## Author
 Ruchika Goyal, MBA (Business Analytics & Marketing), LM Thapar School of Management
